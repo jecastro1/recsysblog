@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Análisis de GroupLens: an open architecture for collaborative filtering of netnews"
-date: 2016-08-14 23:05 -0300
+date: 2016-08-14 22:05 -0300
 categories: any
 ---
 
