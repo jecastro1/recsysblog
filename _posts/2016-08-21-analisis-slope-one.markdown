@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análisis de: Slope One predictors for online rating-based collaborative filtering"
+title: "Análisis: Slope One predictors for online rating-based collaborative filtering"
 date: 2016-08-21 20:00 -0300
 categories: any
 ---

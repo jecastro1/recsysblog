@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análisis de: An algorithmic framework for performing collaborative filtering"
+title: "Análisis: An algorithmic framework for performing collaborative filtering"
 date: 2016-08-20 20:00 -0300
 categories: any
 ---
