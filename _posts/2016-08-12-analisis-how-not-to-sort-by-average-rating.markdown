@@ -15,6 +15,6 @@ Además, da la sensación de que se busca explicar una fórmula para programador
 
 No obstante, rescato que el artículo es un muy buen recurso para quienes buscan una idea rápida sobre cómo hacer recomendaciones sin tener los conocimientos que se necesitan.
 
-### Links
+# Links
 
 - [How not to sort by Average Rating - Evan Miller](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
