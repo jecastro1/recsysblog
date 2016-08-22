@@ -18,3 +18,7 @@ Respecto a los esquemas que proponen tipo *slope one*, es adecuada la progresió
 Sin embargo, no se explica adecuadamente qué ocurre cuando el usuario activo tiene muy pocos ratings, a pesar de que uno de los aspectos que ellos buscaban con *slope one* es *"Expect little from first visitors: a user with few ratings should receive valid recommendations"*.
 
 Por último, no se muestran más métricas que el **MAE** que muestren, por ejemplo, el *coverage* de cada esquema de recomendación testeado. Tampoco se aclara si los datasets se tomaron como venían, o si se tomó una muestra.
+
+### Referencias
+
+- Lemire, D., & Maclachlan, A. (2005, April). Slope One Predictors for Online Rating-Based Collaborative Filtering. In SDM (Vol. 5, pp. 1-5).
