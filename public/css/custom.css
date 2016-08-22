@@ -1,0 +1,12 @@
+.center {
+  text-align: center;
+}
+
+.center > img {
+  margin: 0!important;
+  display: initial!important;
+}
+
+div.see-more {
+  text-align: right;
+}
