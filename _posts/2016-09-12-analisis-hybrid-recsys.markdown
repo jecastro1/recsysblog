@@ -5,8 +5,6 @@ date: 2016-09-12 02:07 -0300
 categories: any
 ---
 
-## Overview
-
 El paper **Hybrid Recommender Systems: Survey and Experiments** propone una clasificación de los sistemas recomendadores híbridos, o sea, los que usan más de uno de los de base. Para esto ofrece un análisis de las ventajas y desventajas de cada sistema por separado.
 
 La contribución más importante que deja el artículo es establecer qué tipos de sistemas híbridos están estudiados, cuales están por estudiar, y cuáles no tiene sentido estudiar. Esto sin duda dio origen a muchas más investigaciones, de hecho, [según Google Scholar](https://scholar.google.com/scholar?hl=es&q=Hybrid+Recommender+Systems%3A+Survey+and+Experiments&btnG=&lr=) hay más de 2900 citas a este trabajo, las que incluyen artículos recientes.

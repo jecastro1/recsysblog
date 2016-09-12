@@ -5,8 +5,6 @@ date: 2016-09-11 23:30 -0300
 categories: any
 ---
 
-## Overview
-
 El artículo **Matrix factorization techniques for recommender systems** apareció en la revista del IEEE. Trata sobre diferentes métodos de factorización matricial para recomendar ítems, pero al final se concentran en los aportes que hicieron los propios autores al área en el Netflix Prize.
 
 En general el artículo es muy claro y didáctico, muestra bien los aportes que hay hasta ese entonces y las innovaciones hechas con el motivo del Netflix Prize.
